@@ -89,7 +89,7 @@ Performs **text-driven image segmentation** using open-source models (Grounding 
 1. Open `q2.ipynb` in Colab
 2. Navigate to **Runtime → Change runtime type → Hardware accelerator → GPU**
 3. Run all cells top to bottom
-4. Upload an image or provide URL when prompted
+4. Provide image URL when prompted
 5. Enter text prompt describing the object to segment
 
 ### Limitations
